@@ -1,0 +1,13 @@
+
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.crash
+*.log
+
+# Terraform lock file - optional to commit
+.terraform.lock.hcl
+
+
